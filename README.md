@@ -3,7 +3,7 @@ VIP Distributed Systems Blockchain Group
 
 Ethereum Yellow Paper - https://ethereum.github.io/yellowpaper/paper.pdf
 
-## Working Goal: 
+## Work(i)[https://eosio.devpost.com/]ng Goal: 
 Create an EOSIO Smart Contract which can store and invoke EVM (Solidity) Smart Contracts in a virtual Ethereum-like environment. This enables developers in the EOSIO, Ethereum, and wider blockchain communities to use their preferred development platforms while leveraging the benefits of EOSIO. For example, EOSIO can process smart contracts faster, reducing the impact of a significant roadblock for developers.
 
 ## Related Documents
