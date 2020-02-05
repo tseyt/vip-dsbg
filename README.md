@@ -9,6 +9,7 @@ Create an EOSIO Smart Contract which can store and invoke EVM (Solidity) Smart C
 ## Related Documents
 - "Ethereum Yellow Paper"-like article for DPOS (Delegated Proof of Stake) chains like EOS - https://github.com/EOSIO/eos/issues/5948
 - EOS.IO Technical White Paper - https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
+- Bitcoin White Paper - https://bitcoin.org/bitcoin.pdf
 
 ## Optional video demo topics
 A video demo is not required but highly encouraged. Helpful topics include:
