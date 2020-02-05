@@ -8,4 +8,4 @@
 -	Explore the Ethereum yellow paper, EOS white paper, and any additional resources with the purpose of understanding key steps that need to be taken in order to build this "bridge" between blockchain platforms.
 
 ## Immediate Plan:
-- Use EOSIO and Ethereum development platforms to create transactions and push code on the EOS and Ethereum blockchains.
+- Use EOSIO and Ethereum development platforms to create transactions and push code on the EOS and Ethereum blockchains. This way we get a hands-on look at how the blockchain environment in both platforms behaves.
