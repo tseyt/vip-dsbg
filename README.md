@@ -10,6 +10,7 @@ Create an EOSIO Smart Contract which can store and invoke EVM (Solidity) Smart C
 - Simple Blockchain in Java - https://www.youtube.com/watch?v=baJYhYsHkLM
 - EOSIO Documentation - https://developers.eos.io/welcome/latest/manuals/index
 - Ethereum Documentation - https://ethereum.org/developers/#getting-started
+- Ethereum basics - https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
 
 ## Related Documents
 - Ethereum White Paper - https://github.com/ethereum/wiki/wiki/white-paper
