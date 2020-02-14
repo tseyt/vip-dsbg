@@ -6,6 +6,11 @@ Ethereum Yellow Paper - https://ethereum.github.io/yellowpaper/paper.pdf
 ## Work[i](https://eosio.devpost.com/)ng Goal: 
 Create an EOSIO Smart Contract which can store and invoke EVM (Solidity) Smart Contracts in a virtual Ethereum-like environment. This enables developers in the EOSIO, Ethereum, and wider blockchain communities to use their preferred development platforms while leveraging the benefits of EOSIO. For example, EOSIO can process smart contracts faster, reducing the impact of a significant roadblock for developers.
 
+## Related Solutions
+- Waterloo by Kyber Network - https://blog.kyber.network/waterloo-a-decentralized-practical-bridge-between-eos-and-ethereum-1c230ac65524
+- LiquidLink by LiquidApps - https://www.liquidapps.io/liquid-link
+- Hyperledger Fabric by the Linux Foundation - https://www.hyperledger.org/blog/2020/01/30/welcome-hyperledger-fabric-2-0-enterprise-dlt-for-production
+
 ## Related Documents
 - Ethereum White Paper - https://github.com/ethereum/wiki/wiki/white-paper
 - "Ethereum Yellow Paper"-like article for DPOS (Delegated Proof of Stake) chains like EOS - https://github.com/EOSIO/eos/issues/5948
