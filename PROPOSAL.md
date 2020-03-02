@@ -9,7 +9,7 @@
 2. How to classify these constraints to find similarities between different platforms?
 3. What are currenty industry best practices as well as advances in research on cross-blockchain interoperability?
 
-How do we unify this knowledge on how different blockchains operate and their governance models into a single framework for a functional IBC protocol.
+How do we unify this knowledge on how different blockchains operate and their governance models into a single framework for a functional IBC protocol?
 
 ## 3. Objectives
 -	Explore the Ethereum yellow paper, EOS white paper, and any additional resources with the purpose of understanding key steps that need to be taken in order to build this "bridge" between blockchain platforms.
