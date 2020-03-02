@@ -4,8 +4,7 @@
 
 
 ## 2. Problem Statement
--	Finding a link between EOSIO and Ethereum blockchains to ultimately scale both chains and improve the development time of decentralized applications.
-
+- Every blockchain platform today is unique with its own set of operations, rules for governance, and technical requirements. As a result, the development of decentralized applications (dApps) tend to be siloed to a single, or select few, blockchain(s), which invariably have significant negative impact on the volume of users a dApp can handle. This puts developers through a Sisyphus-ean burden, tasked with rolling a boulder up a hill only to see it roll back down and start over again. Developers must rewrite their applications for every additional blockchain platform they want to integrate with, getting in their way of reaching their total addressable market as well as preventing the viability of Facebook-sized dApps to exist on top of current blockchain(s). With growing support for the philosophy of "write once, deploy anywhere", the necessary groundwork must be set into place so that dApp developers may enjoy the same right. This research project will provide an overview of state-of-the-art inter-blockchain commmunication mechanisms. In addition, it will propose a conceptual framework for cross-blockchain interoperability.
 
 ## 3. Objectives
 -	Explore the Ethereum yellow paper, EOS white paper, and any additional resources with the purpose of understanding key steps that need to be taken in order to build this "bridge" between blockchain platforms.
