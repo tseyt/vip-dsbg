@@ -23,6 +23,7 @@ Create an EOSIO Smart Contract which can store and invoke EVM (Solidity) Smart C
 - Ethereum Documentation - https://ethereum.org/developers/#getting-started
 - Ethereum basics - https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
 - DAPP Network LiquidLink Bridge between Ethereum and EOSIO - https://liquidapps.io/liquid-link
+- Jafri's repo https://github.com/jafri/eosio.evm/tree/master/eos-evm-js
 
 ## Optional video demo topics
 A video demo is not required but highly encouraged. Helpful topics include:
