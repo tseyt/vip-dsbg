@@ -12,7 +12,7 @@
 How do we unify this knowledge on how different blockchains operate and their governance models into a single framework for a functional IBC protocol?
 
 ## 3. Objectives
--	Explore the Ethereum yellow paper, EOS white paper, and any additional resources with the purpose of understanding key steps that need to be taken in order to build this "bridge" between blockchain platforms.
+-	Explore the Ethereum yellow paper, EOS white paper, and any additional resources with the purpose of understanding key steps that need to be taken in order to build a working IBC protocol.
 Immediate Plan:
 - Use EOSIO and Ethereum development platforms to create transactions and push code on the EOS and Ethereum blockchains. This way we get a hands-on look at how the blockchain environment in both platforms behaves.
 - Push Ethereum contracts from the EOS blockchain through an Ethereum Virtual Machine.
