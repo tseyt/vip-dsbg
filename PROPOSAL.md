@@ -5,9 +5,9 @@
 
 ## 2. Problem Statement
 - Developing a robust, scalable solution to bridge the millions of operational blockchains in the future is necessary if million-user dApps are to exist. This has long been recognized by the industry, but the necessary infrastructure for building something like this successfully is only just beginning to be realized. Numerous blockchain projects are still plagued by illiquidity of data and platform tribalism, which can frequently be accredited to ineffective communication systems and dysfunctional ecosystems. Especially today, as projects become more technically complex and increase in technical debt, user data becomes more vulnerable with an over-reliance on a single platform with a higher risk of attack. Linking multiple chains together is not only a hardier method of preserving user data, but it also ensures the maintenance of a single source of truth among these chains. In summary, there is a need for a better understanding of constraints within differing blockchains and a structured approach in identifying opportunities to connect isolated developer ecosystems to ensure the potential for large-scale applications built on blockchain. More specifically, the following research questions need to be addressed:
-1. What are the typical constraints found in various blockchain projects?
+1. What are typical constraints found in various blockchain protocols?
 2. How to classify these constraints to find similarities between different platforms?
-3. What are currenty industry best practices as well as advances in research on cross-blockchain interoperability?
+3. What are current industry best practices as well as advances in research on cross-blockchain interoperability?
 
 How do we unify this knowledge on how different blockchains operate and their governance models into a single framework for a functional IBC protocol?
 
