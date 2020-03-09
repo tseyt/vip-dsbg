@@ -23,7 +23,7 @@ Immediate Plan:
 
 ## 5. Methodology
 
-The primary research method for this study is application and literature review. This study will be a step by step process starting off with mini-objectives. The first mini-objective would be to implement simple Smart Contracts for both the EOS.IO blockchain and the Ethereum blockchain. Next we must review the current processes of pushing transactions with the Ethereum Virtual Machine. From here, we can find ways to implement the EVM into an EOSIO C++ smart contract to invoke transactions on Ethereum that contains what we have outlined in our contract. Between each step and implementation, multiple tests must incurr to steer the code towards success. This project aims to be a multi-semester project.
+The primary research method for this study is literature review and application. This study will be a step-by-step process starting off with mini-objectives. For example, a first mini-objective would be to implement simple Smart Contracts for both the EOS.IO blockchain and the Ethereum blockchain. Next we would review the process of pushing transactions with the Ethereum Virtual Machine. From here, we can find ways to implement the EVM into an EOSIO C++ smart contract to invoke transactions on Ethereum that contains what we have outlined in our contract. Between each step and implementation, multiple tests must be conducted. This project aims to be a multi-semester project.
 
 ## 6. References
 
