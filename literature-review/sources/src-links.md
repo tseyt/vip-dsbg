@@ -15,6 +15,8 @@
 ## The Meat
 * This is where we put our real sources on IBC stuff
 
+Should we put actual copies of the documents in the sources folder? Could take up a lot of storage, but at the same time links can be fragile and temporary.
+
 
 
 
