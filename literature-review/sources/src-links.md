@@ -18,6 +18,8 @@
   
 ## The Meat - potential sources for the review
 * [Inter Blockchain Communication: A Survey](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
+* [Assessing interoperability solutions for distributed ledgers](https://doi.org/10.1016/j.pmcj.2019.101079) \[Koens\]
+  * Most legitimate paper on IBC to date
 
 
 
