@@ -11,6 +11,8 @@
   * Great example of what a blockchain SLR looks like, could base ours off this
 * [Guideline for SLR in software engineering](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.471) \[Kitchenham\]
   * Great thorough guide for writing an SLR
+* [Systematic Literature Review in Computer Science - A Practical Guide](https://doi.org/10.13140/RG.2.2.35453.87524) \[Silva\]
+  * More accessible, watered down version of Kitchenham
 * [Systematic Mapping Studies in Software Engineering](http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf) \[Petersen\]
   * We might instead want to do a systematic mapping study first - this is the guide to follow.
   
