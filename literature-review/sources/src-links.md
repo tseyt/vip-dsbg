@@ -10,7 +10,9 @@
 * [A systematic literature review of blockchain cyber security](https://doi.org/10.1016/j.dcan.2019.01.005) \[Choo\]
   * Great example of what a blockchain SLR looks like, could base ours off this
 * [Guideline for SLR in software engineering](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.471) \[Kitchenham\]
-  * Might be our holy bible for writing this thing
+  * Great thorough guide for writing an SLR
+* [Systematic Mapping Studies in Software Engineering](http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf) \[Petersen\]
+  * We might instead want to do a systematic mapping study first - this is the guide to follow.
   
 ## The Meat
 * This is where we put our real sources on IBC stuff
