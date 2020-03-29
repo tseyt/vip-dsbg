@@ -15,9 +15,8 @@
   * We might instead want to do a systematic mapping study first - this is the guide to follow.
   
 ## The Meat
-* This is where we put our real sources on IBC stuff
+* [Inter Blockchain Communication: A Survey](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
 
-Should we put actual copies of the documents in the sources folder? Could take up a lot of storage, but at the same time links can be fragile and temporary.
 
 
 
