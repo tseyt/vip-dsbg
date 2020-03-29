@@ -1,6 +1,6 @@
 # Source Links
 
-## Basics
+## Basics - for our learning
 * [IBC easy as ABC](https://medium.com/@zeroxeos/inter-blockchain-communication-ibc-as-easy-as-abc-e72ec5fbe07d) \[0xEOS\]
 * [IBC Pioneers](https://medium.com/@zeroxeos/inter-blockchain-communication-vol-2-ibc-pioneers-50abde410b02) \[0xEOS\]
 * [Where is current research on blockchain technology? A systematic review (2016)](https://doi.org/10.1371/journal.pone.0163477) \[Yli-Huumo\]
@@ -14,7 +14,7 @@
 * [Systematic Mapping Studies in Software Engineering](http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf) \[Petersen\]
   * We might instead want to do a systematic mapping study first - this is the guide to follow.
   
-## The Meat
+## The Meat - potential sources for the review
 * [Inter Blockchain Communication: A Survey](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
 
 
