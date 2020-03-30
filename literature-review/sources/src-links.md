@@ -17,9 +17,11 @@
   * We might instead want to do a systematic mapping study first - this is the guide to follow.
   
 ## The Meat - potential sources for the review
-* [Inter Blockchain Communication: A Survey](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
-* [Assessing interoperability solutions for distributed ledgers](https://doi.org/10.1016/j.pmcj.2019.101079) \[Koens\]
-  * Most legitimate paper on IBC to date
+* [Inter Blockchain Communication: A Survey (2019)](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
+* [Assessing interoperability solutions for distributed ledgers (2019)](https://doi.org/10.1016/j.pmcj.2019.101079) \[Koens\]
+  * Poses properties of DL interoperability, and compares Cosmos with PolkaDot
+* [Chain Interoperability (2016)](https://allquantor.at/blockchainbib/pdf/vitalik2016chain.pdf) \[Buterin\]
+* [Towards a Novel Architecture for Enabling Interoperability amongst Multiple Blockchains (2018)](https://doi.org/10.1109/ICDCS.2018.00120) \[Jin\]
 
 
 
