@@ -30,5 +30,3 @@ A video demo is not required but highly encouraged. Helpful topics include:
 - Walkthrough of new account creation from an EOSIO account
 - Walkthrough of deploying an EVM contract
 - Walkthrough of depositing EOSIO tokens, interacting with an EVM contract and withdrawing balance.
-
-test
