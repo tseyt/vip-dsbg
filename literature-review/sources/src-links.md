@@ -6,7 +6,7 @@
 * [Where is current research on blockchain technology? A systematic review (2016)](https://doi.org/10.1371/journal.pone.0163477) \[Yli-Huumo\]
   * Was looking for SLRs on IBC research and found this. Didn't even mention IBC but it is from 2016...
 
-## Systematic Literature Review (SLR) Examples and Help
+## Systematic Literature Review (SLR) and Systematic Mapping Study (SMS) Examples and Help
 * [A systematic literature review of blockchain cyber security](https://doi.org/10.1016/j.dcan.2019.01.005) \[Choo\]
   * Great example of what a blockchain SLR looks like, could base ours off this
 * [Guideline for SLR in software engineering](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.471) \[Kitchenham\]
@@ -19,7 +19,7 @@
 * [Blockchain-based Smart Contracts: A Systematic Mapping Study](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.5121%2Fcsit.2017.71011&v=460b334c) \[Alharby\]
  * Great example of a blockchain related SMS. The author is a PHD student, and the paper is written very simply. I imagine our paper coming out something like this
   
-## The Meat - potential sources for the review
+## The Meat - potential sources for the study
 * [Inter Blockchain Communication: A Survey (2019)](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
 * [Assessing interoperability solutions for distributed ledgers (2019)](https://doi.org/10.1016/j.pmcj.2019.101079) \[Koens\]
   * Poses properties of DL interoperability, and compares Cosmos with PolkaDot
