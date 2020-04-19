@@ -1,10 +1,11 @@
 # Systematic Mapping Study scratch work
 
 ### Potential Research Questions - pick no more than 3 
-* What is the state of current IBC projects? As in, list them and what they attempt to do
+* What is the state of current IBC projects? -- As in, list them and what they attempt to do
 * Where is the information on IBC located?
 * What are current research topics on IBC?
 * What are current research gaps on IBC?
+* Whos is funding/producing IBC research -- this one could get lumped into "where is the info on IBC located", or maybe it deserved its own standalone research question. TBD.
 
 ### Places to Look (Databases, etc.)
 * IEEE Explore, ACM Digital Library, dblp, ScienceDirect, Springer, Ebsco, Scopus, PLOS One, JSTOR, Web of Science
