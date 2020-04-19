@@ -15,6 +15,7 @@
   * More accessible, watered down version of Kitchenham
 * [Systematic Mapping Studies in Software Engineering](http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf) \[Petersen\]
   * We might instead want to do a systematic mapping study first - this is the guide to follow.
+* [What is a "mapping study"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4722648/) \[Cooper\]
   
 ## The Meat - potential sources for the review
 * [Inter Blockchain Communication: A Survey (2019)](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
