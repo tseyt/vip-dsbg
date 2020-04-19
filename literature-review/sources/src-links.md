@@ -16,6 +16,8 @@
 * [Systematic Mapping Studies in Software Engineering](http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf) \[Petersen\]
   * We might instead want to do a systematic mapping study first - this is the guide to follow.
 * [What is a "mapping study"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4722648/) \[Cooper\]
+* [Blockchain-based Smart Contracts: A Systematic Mapping Study](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.5121%2Fcsit.2017.71011&v=460b334c) \[Alharby\]
+ * Great example of a blockchain related SMS. The author is a PHD student, and the paper is written very simply. I imagine our paper coming out something like this
   
 ## The Meat - potential sources for the review
 * [Inter Blockchain Communication: A Survey (2019)](https://doi.org/10.1145/3333165.3333167) \[Qasse\]
