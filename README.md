@@ -1,5 +1,5 @@
 # vip-dsbg
-VIP Distributed Systems Blockchain Group
+VIP Research - Distributed Systems Blockchain Group
 
 
 
